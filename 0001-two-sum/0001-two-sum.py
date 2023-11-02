@@ -1,4 +1,4 @@
-# [python with alg. 175] 3. save time using dictionary
+# [python with alg. p175] 3. save time using dictionary
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
